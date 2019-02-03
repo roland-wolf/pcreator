@@ -6,10 +6,9 @@ Compilation:
 Compile like any CMake projects.
 
 Usage: 
-<code>
-cd <root-directory-of future-project>
-pcreator MyCosmicProject
- </code>
+    cd <root-directory-of future-project>
+    pcreator MyCosmicProject
+
 
 
 
