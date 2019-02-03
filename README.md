@@ -1,9 +1,17 @@
 # pcreator
 Creates a simple C++ project including CMake build script
-The current focus is building Hello World style project quickly. 
+The current focus is building Qt Hello World style projects quickly. 
 
-Compilation:
-Compile like any CMake projects.
+Compile pcreator:
+Compile like any Qt CMake project.
+
+```
+    mkdir <build_dir>
+    cd <build_dir>
+    cmake <src_dir> -DCMAKE_PREFIX_PATH=<QtDir>/lib/cmake
+    make
+```
+
 
 Usage: 
 
