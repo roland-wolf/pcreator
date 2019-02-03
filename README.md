@@ -18,6 +18,8 @@ Usage:
 ```
     cd <root-directory-of future-project>
     pcreator MyCosmicProject
+    cd MyCosmicProject
+    ... hack hack hack ...
 ```
 
 
